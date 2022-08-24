@@ -3,7 +3,7 @@
   "displayName": "Tanuki",
   "description": "A Tanuki in Tokyo Night",
   "publisher": "YUNSUBAE",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -12,6 +12,10 @@
     "name": "YUNSU BAE",
     "email": "ownsgks@gmail.com",
     "url": "https://github.com/mniYUNSU"
+  },
+  "repository": {
+    "url": "https://github.com/mniYUNSU/Tanuki",
+    "type": "git"
   },
   "categories": [
     "Themes"
