@@ -3,7 +3,7 @@
   "displayName": "Tanuki",
   "description": "A Tanuki in Tokyo Night",
   "publisher": "YUNSUBAE",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.70.0"
   },
