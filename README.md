@@ -10,16 +10,12 @@ This is My First VS Code Theme Customization.
 
 <br>
 
-<figure>
-<img src="./images/view.png" alg="tanuki view1" style="border-radius: 10px ;box-shadow:0px 0px 10px #000">
-</figure>
+<img src="./images/view.png" alg="tanuki view1">
 
 <br>
 <br>
 
-<figure>
-<img src="./images/view2.png" alg="tanuki view2" style="border-radius: 10px ;box-shadow:0px 0px 10px #000">
-</figure>
+<img src="./images/view2.png" alg="tanuki view2">
 
 <br>
 
