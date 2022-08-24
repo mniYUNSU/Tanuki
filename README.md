@@ -15,6 +15,7 @@ This is My First VS Code Theme Customization.
 </figure>
 
 <br>
+<br>
 
 <figure>
 <img src="./images/view2.png" alg="tanuki view2" style="border-radius: 10px ;box-shadow:0px 0px 10px #000">
