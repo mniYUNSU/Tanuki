@@ -27,7 +27,7 @@ This is My First VS Code Theme Customization.
 
 |                                                                    |      Name      |     Hex     |                                       Usage                                       |
 | :----------------------------------------------------------------: | :------------: | :---------: | :-------------------------------------------------------------------------------: |
-|    ![#DEDDD7](https://via.placeholder.com/15/DEDDD7/DEDDD7.png)    |  tanukiWhite   | `#DEDDD7 `  |                                Default Foreground                                 |
+|    ![#DEDDD7](https://via.placeholder.com/15/DEDDD7/DEDDD7.png)    |  tanukiWhite   |  `#DEDDD7`  |                                Default Foreground                                 |
 |    ![#C9C6B8](https://via.placeholder.com/15/C9C6B8/C9C6B8.png)    | tanukiOldWhite |  `#C9C6B8`  |                           Dark foreground (statuslines)                           |
 |    ![#282837](https://via.placeholder.com/15/282837/282837.png)    | tanukiIndigo0  |  `#282837`  |                Dark background (statuslines and floating windows)                 |
 |    ![#0C0D12](https://via.placeholder.com/15/0C0D12/0C0D12.png)    | tanukiIndigo1  |  `#0C0D12`  |                                Default background                                 |
