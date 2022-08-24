@@ -10,12 +10,7 @@
   "icon": "images/logo.png",
   "author": {
     "name": "YUNSU BAE",
-    "email": "ownsgks@gmail.com",
-    "url": "https://github.com/mniYUNSU"
-  },
-  "repository": {
-    "url": "https://github.com/mniYUNSU/Tanuki",
-    "type": "git"
+    "email": "ownsgks@gmail.com"
   },
   "categories": [
     "Themes"
