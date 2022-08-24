@@ -1,12 +1,14 @@
 <div align="center">
 
-# Tanuki
+# 🏮 Tanuki 🦝
 
 **Hello World!**
 
 This is My First VS Code Theme Customization.
 
 ### Thanks for **<a href="https://github.com/rebelot/kanagawa.nvim/" target="_blank" rel="noopener">Kanagawa</a>** and **<a href="https://github.com/jeroen-meijer/shibuya" target="_blank" rel="noopener">Shibuya</a>** !!
+
+Hope you enjoy this extension!
 
 <br>
 
