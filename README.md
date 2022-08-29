@@ -32,7 +32,7 @@ This is My First VS Code Theme Customization.
 |    ![#16161E](https://via.placeholder.com/15/16161E/16161E.png)    | tanukiIndigo2  |  `#16161E`  |                      Lighter background (colorcolumn, folds)                      |
 |    ![#222232](https://via.placeholder.com/15/222232/222232.png)    | tanukiIndigo3  |  `#222232`  |                          Lighter background (cursorline)                          |
 |    ![#54546D](https://via.placeholder.com/15/54546D/54546D.png)    | tanukiIndigo4  |  `#54546D`  | Darker foreground (line numbers, fold column, non-text characters), float borders |
-| ![#0c0d12e7](https://via.placeholder.com/15/0c0d12e7/0c0d12e7.png) |  shibuyaBlue0  | `#0c0d12e7` |                   Popup background, visual selection background                   |
+| ![#0C0D12E7](https://via.placeholder.com/15/0c0d12e7/0c0d12e7.png) |  shibuyaBlue0  | `#0C0D12E7` |                   Popup background, visual selection background                   |
 |    ![#161C39](https://via.placeholder.com/15/161C39/161C39.png)    |  shibuyaBlue1  |  `#161C39`  |                   Popup selection background, search background                   |
 |    ![#658594](https://via.placeholder.com/15/658594/658594.png)    |  shibuyaBlue2  |  `#658594`  |                                  Diagnostic Hint                                  |
 |    ![#2B3328](https://via.placeholder.com/15/2B3328/2B3328.png)    |  otaruGreen0   |  `#2B3328`  |                               Diff Add (background)                               |
@@ -41,7 +41,7 @@ This is My First VS Code Theme Customization.
 |    ![#DCA561](https://via.placeholder.com/15/DCA561/DCA561.png)    |  tanukiYellow  |  `#DCA561`  |                                    Git Change                                     |
 |    ![#E82424](https://via.placeholder.com/15/E82424/E82424.png)    |   tanukiRed    |  `#E82424`  |                                 Diagnostic Error                                  |
 |    ![#FF9E3B](https://via.placeholder.com/15/FF9E3B/FF9E3B.png)    |   akiYellow    |  `#FF9E3B`  |                                Diagnostic Warning                                 |
-|    ![#70b8a3](https://via.placeholder.com/15/70b8a3/70b8a3.png)    |   fuyuAqua0    |  `#70b8a3`  |                                  Diagnostic Info                                  |
+|    ![#70B8A3](https://via.placeholder.com/15/70b8a3/70b8a3.png)    |   fuyuAqua0    |  `#70B8A3`  |                                  Diagnostic Info                                  |
 |    ![#56D66D](https://via.placeholder.com/15/56D66D/56D66D.png)    |   fuyuAqua1    |  `#56D66D`  |                                      Types 1                                      |
 |    ![#9CDCFE](https://via.placeholder.com/15/9CDCFE/9CDCFE.png)    |   fuyuAqua2    |  `#9CDCFE`  |                                      Types 2                                      |
 |    ![#696b72](https://via.placeholder.com/15/696b72/696b72.png)    |    fujiGray    |  `#696b72`  |                                     Comments                                      |
